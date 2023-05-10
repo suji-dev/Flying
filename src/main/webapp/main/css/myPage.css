@@ -1,0 +1,112 @@
+@charset "UTF-8";
+#title1 {
+	margin-top:100px;
+	text-align:center;
+}
+
+#tableLayout {
+	text-align:center;
+
+}
+
+h1 {
+	text-align:center;
+	margin-top:30px;
+	margin-bottom:30px;
+	color: #408080;
+	font-size: 50px;
+}
+
+table.myInfo {
+	width:1400px;
+	border-collapse: collapse;
+	text-align: left;
+	line-height: 1.5;
+	border: 1px solid #ccc;
+	margin-left: auto;
+	margin-right:auto;
+	text-align:center;
+}
+
+table.myInfo thead {
+	border-right: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	background:  #408080;
+}
+
+table.myInfo thead th {
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	color: #fff;
+}
+
+table.myInfo tbody th {
+	width: 150px;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+	background: #80ff80;
+}
+
+table.myInfo td {
+	width: 350px;
+	padding: 10px;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+}
+
+#allButton {
+	text-align:center;
+}
+
+#membutton1 {
+	width:200px;
+	height:200px;
+	margin-top:40px;
+	display:inline-block; 
+	text-align:center;
+}
+
+#membutton2 {
+	width:200px;
+	height:200px;
+	margin-top:40px;
+	display:inline-block; 
+	text-align:center;
+}
+
+#button1 {
+	background-color:  #408080; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 12px;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	font-weight: 800;
+}
+
+#button2 {
+	background-color: #408080;/* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 12px;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	font-weight: 800;
+}
+
+footer {
+	margin-top:100px;
+}
